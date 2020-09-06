@@ -157,10 +157,6 @@ function change5(){
   }
 }
 
-function change6(){
-  
-}
-
 function refresh(){
   if(imageIsLoaded(startImage)){
     upload();
