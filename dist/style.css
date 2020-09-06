@@ -1,0 +1,11 @@
+canvas{
+  border: 3px lightgrey solid;
+  margin: 5px;
+  height: 150px;
+}
+div{
+  margin: 5px;
+}
+div#dim{
+  margin-bottom: 15px;
+}
